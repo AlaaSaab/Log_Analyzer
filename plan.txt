@@ -1,0 +1,17 @@
+log_analyzer/
+├── CMakeLists.txt
+├── include/
+│   ├── CLI.h
+│   ├── InputModule.h
+│   ├── ParserModule.h
+│   ├── AnalysisModule.h
+│   └── OutputModule.h
+├── src/
+│   ├── CLI.cpp
+│   ├── InputModule.cpp
+│   ├── ParserModule.cpp
+│   ├── AnalysisModule.cpp
+│   ├── OutputModule.cpp
+│   └── main.cpp
+└── tests/
+    └── (optional test files)
